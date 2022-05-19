@@ -54,7 +54,7 @@
             <div class="col-4"></div>
             
             <div class="col-2 mt-3">
-            <h4 class="text-white d-inline" style="font-weight: bold;">Data Warehouse</h4>
+            <h5 class="text-white d-inline" style="font-weight: bold;">Data Warehouse</h5>
             </div>
         </div>
     </nav>

@@ -67,28 +67,28 @@
         </div>
     </nav>
       
-       
+   <!-- Start Of Total Population  -->    
    <div class="container mt-5">
        <div class="row">
            <div class="col-1"></div>
        <div class="col-3 ml-3 pt-2" style="background-color:#eeeeee;">
           
            <img src="img/pop-removebg-preview.png" class="img-fluid mb-1" style="height:65px; margin-left:30%;">
-                <p class="text-center font-weight-bold" style="color:#365c4b;">(42793347)</p>
+                <p class="text-center font-weight-bold" style="color:#365c4b;">(42,793,347)</p>
                 <p class="text-center font-weight-bold" style="color:#365c4b;"> إجمالى عدد السكان<br> اقل من 18 عام </p>
            
            </div>
        
            <div class="col-3 ml-3 pt-2" style="background-color:#eeeeee;">
            <img src="img/Untitled-removebg-preview.png" class="img-fluid mb-1" style="height:65px; margin-left:42%;">
-               <p class="text-center font-weight-bold" style="color:#365c4b;">(22093933)</p>
+               <p class="text-center font-weight-bold" style="color:#365c4b;">(22,093,933)</p>
                 <p class="text-center font-weight-bold" style="color:#365c4b;">إجمالى عدد الذكور </p>
            
            </div>
        
                <div class="col-3 pt-2" style="background-color:#eeeeee;">
            <img src="img/boy-and-girl-icon-design-vector-25046387-removebg-preview.png" class="img-fluid mb-1" style="height:65px; margin-left:43%;">
-                  <p class="text-center font-weight-bold" style="color:#365c4b;">(20699414)</p> 
+                  <p class="text-center font-weight-bold" style="color:#365c4b;">(20,699,414)</p> 
                 <p class="text-center font-weight-bold" style="color:#365c4b;">إجمالى عدد الإناث </p>
            
            </div>
@@ -99,10 +99,10 @@
        
        
        </div>    
+    <!-- End Of Total Population  -->   
        
        
-       
-       
+<!-- Start Of First table  -->
    <div class="container mt-5" style="background-color:#eeeeee;">
        <h5 class="text-center py-2 font-weight-bold">عدد السكان وفقاً لفئات السن والنوع لإجمالى الجمهورية عام 2021</h5>
        
@@ -168,16 +168,16 @@
   </tbody>
 </table>  
         </div>    
-
+<!-- End Of First table  -->
        
        
        
        
-       
+      <!-- Start Of Second table  --> 
       <div class="container mt-5" style="background-color:#eeeeee; overflow-x:scroll;">
        <h5 class="text-center py-2 font-weight-bold">فئات السن محافظات   </h5>
        
-       <img src="img/Picture3.png" width="100%" height="500px"  style="background-color:#ffffff;">
+       <img src="img/Picture2.png" width="100%" height="500px"  style="background-color:#ffffff;">
      <table class="table table-striped table-bordered table-hover table-sm mt-3" style="background-color:#ffffff;">
   <thead>
     <tr class="text-center">
@@ -294,6 +294,7 @@
   </tbody>
 </table>  
         </div>      
+       <!-- End Of First table  -->
        
        
        
@@ -303,12 +304,11 @@
        
        
        
-       
- 
+ <!-- Start Of Third table  -->
         <div class="container mt-5" style="background-color:#eeeeee;">
        <h5 class="text-center py-2 font-weight-bold">عدد السكان اقل من 18 عام</h5>
        
-       <img src="img/Picture2.png" width="100%" height="500px"  style="background-color:#ffffff;">
+       <img src="img/Picture.png" width="100%" height="500px"  style="background-color:#ffffff;">
      <table class="table table-striped table-bordered table-hover table-sm mt-3" style="background-color:#ffffff;">
   <thead>
     <tr class="text-center">
@@ -351,7 +351,7 @@
   </tbody>
 </table>  
         </div>    
-
+<!-- Start Of Third table  -->
  <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
